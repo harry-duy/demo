@@ -18,9 +18,18 @@ namespace eTickets.Data.Base
 
         public async Task AddAsync(T entity)
         {
-            await _context.Set<T>().AddAsync(entity);
-            await _context.SaveChangesAsync();
+            try
+            {
+                await _context.Set<T>().AddAsync(entity);
+                var result = await _context.SaveChangesAsync();
+                Console.WriteLine($"SaveChangesAsync Result: {result}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error saving data: {ex.Message}");
+            }
         }
+
 
         public async Task DeleteAsync(int id)
         {
