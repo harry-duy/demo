@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JoH2BDMq9GDPrB5azt9cfdh4lwLipFK/c5W5VcTDRjM=",
+  "Hash": "BJci31WMP8JhME+xD6t4rMhkvD/wHe6uKcRd3R4y1r0=",
   "Source": "eTickets",
   "BasePath": "_content/eTickets",
   "Mode": "Default",
@@ -771,6 +771,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+      "SourceId": "eTickets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\",
+      "BasePath": "_content/eTickets",
+      "RelativePath": "Templates/EmailTemplate#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lovdlejno2",
+      "Integrity": "pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Templates\\EmailTemplate.html"
     }
   ],
   "Endpoints": [
@@ -3723,6 +3744,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/EmailTemplate.html",
+      "AssetFile": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 01:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/EmailTemplate.lovdlejno2.html",
+      "AssetFile": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 01:14:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lovdlejno2"
+        },
+        {
+          "Name": "label",
+          "Value": "Templates/EmailTemplate.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI="
         }
       ]
     }

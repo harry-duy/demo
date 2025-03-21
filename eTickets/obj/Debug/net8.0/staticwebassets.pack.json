@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+      "PackagePath": "staticwebassets\\Templates\\EmailTemplate.html"
+    },
+    {
       "Id": "C:\\Users\\duyng\\OneDrive\\Tài liệu\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

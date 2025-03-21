@@ -3,6 +3,88 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "Templates/EmailTemplate.html",
+      "AssetFile": "Templates/EmailTemplate.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 01:14:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI="
+        }
+      ]
+    },
+    {
+      "Route": "Templates/EmailTemplate.lovdlejno2.html",
+      "AssetFile": "Templates/EmailTemplate.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43351"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Mar 2025 01:14:37 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lovdlejno2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pf6uNOX9NB1JeaF3sXffrx9fl7Bz6RFcBWFmf31TqjI="
+        },
+        {
+          "Name": "label",
+          "Value": "Templates/EmailTemplate.html"
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "css/site.css",
       "Selectors": [],

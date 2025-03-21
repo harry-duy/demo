@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = eTickets
 build_property.RootNamespace = eTickets
@@ -78,6 +86,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/duyng/OneDrive/Tài liệu/ca1 - -t6/eTickets/eTickets/Views/Cinemas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2luZW1hc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/duyng/OneDrive/Tài liệu/ca1 - -t6/eTickets/eTickets/Views/EmailMarketing/SendMarketingEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxNYXJrZXRpbmdcU2VuZE1hcmtldGluZ0VtYWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/duyng/OneDrive/Tài liệu/ca1 - -t6/eTickets/eTickets/Views/Movies/Create.cshtml]

@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\models\\shoppingcartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\properties\\servicedependencies\\etickets-app - web deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\properties\\servicedependencies\\etickets-app - web deploy\\profile.arm.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\wwwroot\\templates\\emailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\wwwroot\\templates\\emailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\controllers\\emailmarketingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\emailmarketingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\cinemascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\views\\orders\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,24 +55,12 @@
       "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\base\\entitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\data\\static\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\static\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|solutionrelative:etickets\\data\\appdbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E592B8C7-B2B8-4BD1-951A-79EA165170BD}|eTickets\\eTickets.csproj|c:\\users\\duyng\\onedrive\\ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\etickets\\etickets\\data\\base\\ientitybaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,51 +94,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "eTickets\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "eTickets\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAuwDwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T01:07:24.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PaypalController.cs",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\PaypalController.cs",
-              "RelativeDocumentMoniker": "eTickets\\Controllers\\PaypalController.cs",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\PaypalController.cs",
-              "RelativeToolTip": "eTickets\\Controllers\\PaypalController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFQAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T01:03:31.228Z"
+              "DocumentIndex": 0,
+              "Title": "profile.arm.json",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "RelativeDocumentMoniker": "eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "RelativeToolTip": "eTickets\\Properties\\ServiceDependencies\\etickets-app - Web Deploy\\profile.arm.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T05:45:05.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShoppingCart.cshtml",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\Orders\\ShoppingCart.cshtml",
-              "RelativeDocumentMoniker": "eTickets\\Views\\Orders\\ShoppingCart.cshtml",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\Orders\\ShoppingCart.cshtml",
-              "RelativeToolTip": "eTickets\\Views\\Orders\\ShoppingCart.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEkAAAAxAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-14T01:02:27.638Z"
+              "WhenOpened": "2025-03-21T05:44:37.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ShoppingCartItem.cs",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Models\\ShoppingCartItem.cs",
-              "RelativeDocumentMoniker": "eTickets\\Models\\ShoppingCartItem.cs",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Models\\ShoppingCartItem.cs",
-              "RelativeToolTip": "eTickets\\Models\\ShoppingCartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T01:01:40.276Z",
+              "DocumentIndex": 3,
+              "Title": "EmailTemplate.html",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+              "RelativeDocumentMoniker": "eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+              "RelativeToolTip": "eTickets\\wwwroot\\Templates\\EmailTemplate.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAICAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-21T03:48:18.02Z",
               "EditorCaption": ""
             },
             {
@@ -125,13 +139,123 @@
               "RelativeDocumentMoniker": "eTickets\\appsettings.json",
               "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\appsettings.json",
               "RelativeToolTip": "eTickets\\appsettings.json",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-28T01:53:28.836Z"
+              "WhenOpened": "2025-02-28T01:53:28.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "eTickets\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Services\\EmailService.cs",
+              "RelativeToolTip": "eTickets\\Services\\EmailService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:56:37.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Program.cs",
+              "RelativeDocumentMoniker": "eTickets\\Program.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Program.cs",
+              "RelativeToolTip": "eTickets\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:21:30.979Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "EmailMarketingController.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\EmailMarketingController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\EmailMarketingController.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\EmailMarketingController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\EmailMarketingController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:46:39.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Startup.cs",
+              "RelativeDocumentMoniker": "eTickets\\Startup.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Startup.cs",
+              "RelativeToolTip": "eTickets\\Startup.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T03:34:24.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeDocumentMoniker": "eTickets\\Data\\AppDbInitializer.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
+              "RelativeToolTip": "eTickets\\Data\\AppDbInitializer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T01:47:06.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CinemasController.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\CinemasController.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\CinemasController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\CinemasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:45:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA+wDwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:07:24.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaypalController.cs",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\PaypalController.cs",
+              "RelativeDocumentMoniker": "eTickets\\Controllers\\PaypalController.cs",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Controllers\\PaypalController.cs",
+              "RelativeToolTip": "eTickets\\Controllers\\PaypalController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAIBJwFQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:03:31.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\Orders\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "eTickets\\Views\\Orders\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Views\\Orders\\ShoppingCart.cshtml",
+              "RelativeToolTip": "eTickets\\Views\\Orders\\ShoppingCart.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAIBJwEkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T01:02:27.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UserRoles.cs",
               "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\Static\\UserRoles.cs",
               "RelativeDocumentMoniker": "eTickets\\Data\\Static\\UserRoles.cs",
@@ -143,19 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Program.cs",
-              "RelativeDocumentMoniker": "eTickets\\Program.cs",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Program.cs",
-              "RelativeToolTip": "eTickets\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAApwAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:21:30.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "EntityBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\Base\\EntityBaseRepository.cs",
               "RelativeDocumentMoniker": "eTickets\\Data\\Base\\EntityBaseRepository.cs",
@@ -167,19 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppDbInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
-              "RelativeDocumentMoniker": "eTickets\\Data\\AppDbInitializer.cs",
-              "ToolTip": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\AppDbInitializer.cs",
-              "RelativeToolTip": "eTickets\\Data\\AppDbInitializer.cs",
-              "ViewState": "AgIAAB4BAAAAAAAAAAAAAEkBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T01:47:06.958Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "IEntityBaseRepository.cs",
               "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\Base\\IEntityBaseRepository.cs",
               "RelativeDocumentMoniker": "eTickets\\Data\\Base\\IEntityBaseRepository.cs",
@@ -191,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "ActorsService.cs",
               "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\Services\\ActorsService.cs",
               "RelativeDocumentMoniker": "eTickets\\Data\\Services\\ActorsService.cs",
@@ -203,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "IActorsService.cs",
               "DocumentMoniker": "C:\\Users\\duyng\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\ca1 - -t6\\eTickets\\eTickets\\Data\\Services\\IActorsService.cs",
               "RelativeDocumentMoniker": "eTickets\\Data\\Services\\IActorsService.cs",
